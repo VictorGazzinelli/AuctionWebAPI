@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AuctionWebAPI.Repositories/1.0.0": {
+        "dependencies": {
+          "AuctionWebAPI.Boundaries": "1.0.0",
+          "AuctionWebAPI.Entities": "1.0.0"
+        },
+        "runtime": {
+          "AuctionWebAPI.Repositories.dll": {}
+        }
+      },
+      "AuctionWebAPI.Boundaries/1.0.0": {
+        "dependencies": {
+          "AuctionWebAPI.Entities": "1.0.0"
+        },
+        "runtime": {
+          "AuctionWebAPI.Boundaries.dll": {}
+        }
+      },
+      "AuctionWebAPI.Entities/1.0.0": {
+        "runtime": {
+          "AuctionWebAPI.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AuctionWebAPI.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AuctionWebAPI.Boundaries/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AuctionWebAPI.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

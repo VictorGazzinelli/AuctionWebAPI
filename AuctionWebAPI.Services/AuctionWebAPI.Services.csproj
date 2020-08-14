@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AuctionWebAPI.Boundaries\AuctionWebAPI.Boundaries.csproj" />
+    <ProjectReference Include="..\AuctionWebAPI.Utils\AuctionWebAPI.Utils.csproj" />
+  </ItemGroup>
+
+</Project>

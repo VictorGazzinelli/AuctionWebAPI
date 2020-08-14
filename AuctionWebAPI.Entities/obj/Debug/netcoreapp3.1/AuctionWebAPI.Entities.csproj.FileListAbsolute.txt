@@ -1,0 +1,9 @@
+C:\Users\Victor\Desktop\AuctionWebAPI\AuctionWebAPI.Entities\bin\Debug\netcoreapp3.1\AuctionWebAPI.Entities.deps.json
+C:\Users\Victor\Desktop\AuctionWebAPI\AuctionWebAPI.Entities\bin\Debug\netcoreapp3.1\AuctionWebAPI.Entities.dll
+C:\Users\Victor\Desktop\AuctionWebAPI\AuctionWebAPI.Entities\bin\Debug\netcoreapp3.1\AuctionWebAPI.Entities.pdb
+C:\Users\Victor\Desktop\AuctionWebAPI\AuctionWebAPI.Entities\obj\Debug\netcoreapp3.1\AuctionWebAPI.Entities.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\AuctionWebAPI\AuctionWebAPI.Entities\obj\Debug\netcoreapp3.1\AuctionWebAPI.Entities.AssemblyInfo.cs
+C:\Users\Victor\Desktop\AuctionWebAPI\AuctionWebAPI.Entities\obj\Debug\netcoreapp3.1\AuctionWebAPI.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\AuctionWebAPI\AuctionWebAPI.Entities\obj\Debug\netcoreapp3.1\AuctionWebAPI.Entities.dll
+C:\Users\Victor\Desktop\AuctionWebAPI\AuctionWebAPI.Entities\obj\Debug\netcoreapp3.1\AuctionWebAPI.Entities.pdb
+C:\Users\Victor\Desktop\AuctionWebAPI\AuctionWebAPI.Entities\obj\Debug\netcoreapp3.1\AuctionWebAPI.Entities.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\AuctionWebAPI\AuctionWebAPI.Repositories\bin\Debug\netcoreapp3.1\AuctionWebAPI.Repositories.deps.json
+C:\Users\Victor\Desktop\AuctionWebAPI\AuctionWebAPI.Repositories\bin\Debug\netcoreapp3.1\AuctionWebAPI.Repositories.dll
+C:\Users\Victor\Desktop\AuctionWebAPI\AuctionWebAPI.Repositories\bin\Debug\netcoreapp3.1\AuctionWebAPI.Repositories.pdb
+C:\Users\Victor\Desktop\AuctionWebAPI\AuctionWebAPI.Repositories\bin\Debug\netcoreapp3.1\AuctionWebAPI.Boundaries.dll
+C:\Users\Victor\Desktop\AuctionWebAPI\AuctionWebAPI.Repositories\bin\Debug\netcoreapp3.1\AuctionWebAPI.Entities.dll
+C:\Users\Victor\Desktop\AuctionWebAPI\AuctionWebAPI.Repositories\bin\Debug\netcoreapp3.1\AuctionWebAPI.Boundaries.pdb
+C:\Users\Victor\Desktop\AuctionWebAPI\AuctionWebAPI.Repositories\bin\Debug\netcoreapp3.1\AuctionWebAPI.Entities.pdb
+C:\Users\Victor\Desktop\AuctionWebAPI\AuctionWebAPI.Repositories\obj\Debug\netcoreapp3.1\AuctionWebAPI.Repositories.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\AuctionWebAPI\AuctionWebAPI.Repositories\obj\Debug\netcoreapp3.1\AuctionWebAPI.Repositories.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\AuctionWebAPI\AuctionWebAPI.Repositories\obj\Debug\netcoreapp3.1\AuctionWebAPI.Repositories.AssemblyInfo.cs
+C:\Users\Victor\Desktop\AuctionWebAPI\AuctionWebAPI.Repositories\obj\Debug\netcoreapp3.1\AuctionWebAPI.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\AuctionWebAPI\AuctionWebAPI.Repositories\obj\Debug\netcoreapp3.1\AuctionWebAPI.Repositories.csproj.CopyComplete
+C:\Users\Victor\Desktop\AuctionWebAPI\AuctionWebAPI.Repositories\obj\Debug\netcoreapp3.1\AuctionWebAPI.Repositories.dll
+C:\Users\Victor\Desktop\AuctionWebAPI\AuctionWebAPI.Repositories\obj\Debug\netcoreapp3.1\AuctionWebAPI.Repositories.pdb
