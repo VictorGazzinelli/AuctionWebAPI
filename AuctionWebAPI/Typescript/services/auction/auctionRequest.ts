@@ -1,4 +1,4 @@
-import { RequestUtils } from '../../hooks/useDoRequest/requestUtils';
+import { RequestUtils } from '../../utils/requestUtils';
 
 import auctionAPIRoutes from './auctionAPIRoutes';
 import {

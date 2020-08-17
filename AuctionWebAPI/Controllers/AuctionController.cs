@@ -136,6 +136,7 @@ namespace AuctionWebAPI.Controllers
                 .GetInstanceOf<IService<EditAuctionRequest, EditAuctionResponse>>()
                 .Run(new EditAuctionRequest()
                 {
+                    AuctionId = input.AuctionId,
                     Name = input.Name,
                     InitialValue = input.InitialValue,
                     IsItemUsed = input.IsItemUsed,

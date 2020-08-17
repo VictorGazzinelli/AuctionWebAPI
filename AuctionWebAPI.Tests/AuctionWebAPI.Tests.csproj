@@ -7,10 +7,25 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Base\lvycxciw.4st~" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.TestHost" Version="3.1.7" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0" />
     <PackageReference Include="MSTest.TestAdapter" Version="2.1.0" />
     <PackageReference Include="MSTest.TestFramework" Version="2.1.0" />
     <PackageReference Include="coverlet.collector" Version="1.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AuctionWebAPI.Boundaries\AuctionWebAPI.Boundaries.csproj" />
+    <ProjectReference Include="..\AuctionWebAPI.Entities\AuctionWebAPI.Entities.csproj" />
+    <ProjectReference Include="..\AuctionWebAPI.Mapper\AuctionWebAPI.Mapper.csproj" />
+    <ProjectReference Include="..\AuctionWebAPI.Repositories\AuctionWebAPI.Repositories.csproj" />
+    <ProjectReference Include="..\AuctionWebAPI.Services\AuctionWebAPI.Services.csproj" />
+    <ProjectReference Include="..\AuctionWebAPI.Utils\AuctionWebAPI.Utils.csproj" />
+    <ProjectReference Include="..\AuctionWebAPI\AuctionWebAPI.csproj" />
   </ItemGroup>
 
 </Project>

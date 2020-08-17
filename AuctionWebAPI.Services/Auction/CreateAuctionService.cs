@@ -54,11 +54,11 @@ namespace AuctionWebAPI.Services.Auction
             if (string.IsNullOrWhiteSpace(request.Name))
                 throw new InvalidParamException("Name", request.Name);
 
-            if (request.InitialValue <= 0)
-                throw new BadRequestException("O valor inicial não pode ser inferior ou igual a zero");
+            if (request.InitialValue < 0)
+                throw new BadRequestException("O valor inicial não pode ser inferior a zero");
 
-            if (request.ClosedAt <= request.OpenedAt)
-                throw new BadRequestException("A data final não pode ser anterior ou igual a data de abertura");
+            if (request.ClosedAt.Date < request.OpenedAt.Date)
+                throw new BadRequestException("A data final não pode ser anterior a data de abertura");
         }
     }
 }

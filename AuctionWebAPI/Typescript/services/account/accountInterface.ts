@@ -17,7 +17,7 @@ export interface ICreateAccountInput {
 }
 
 export interface ICreateAccountOutput {
-    Username: string;
+    Account: IAccountDTO;
     AuthToken: string;
 }
 
@@ -27,7 +27,7 @@ export interface ILoginAccountInput {
 }
 
 export interface ILoginAccountOutput {
-    Username: string;
+    Account: IAccountDTO;
     AuthToken: string;
 }
 

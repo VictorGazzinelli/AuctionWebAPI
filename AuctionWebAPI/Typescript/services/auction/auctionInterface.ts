@@ -22,7 +22,6 @@ export interface ICreateAuctionInput {
     Name: string;
     InitialValue: number;
     IsItemUsed: boolean;
-    ResponsibleId: number;
     OpenedAt: string;
     ClosedAt: string;
 }

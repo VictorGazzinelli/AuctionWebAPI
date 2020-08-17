@@ -1,4 +1,4 @@
-import { RequestUtils } from '../../hooks/useDoRequest/requestUtils';
+import { RequestUtils } from '../../utils/requestUtils';
 
 import accountAPIRoutes from './accountAPIRoutes';
 import {
@@ -30,7 +30,7 @@ export default class accountRequest {
 	}
 
 	static async LoginAccount(dto: ILoginAccountInput): Promise<ILoginAccountOutput | null> {
-		const retorno: ILoginAccountOutput = await RequestUtils.LoginPostRequest(this.LoginAccountEndpoint, dto);
+		const retorno: ILoginAccountOutput = await RequestUtils.createPostRequest(this.LoginAccountEndpoint, dto);
 		return retorno;
 	}
 }
